@@ -18,7 +18,7 @@ else
 fi
 ```
 ### Скриншот работы программы:  
-<img width="470" alt="image" src="https://github.com/user-attachments/assets/7ded09ca-c952-438d-9c2f-9be4a449a8ee" />  
+<img width="335" alt="image" src="https://github.com/user-attachments/assets/a1542d34-3643-44c2-9c19-c18c8c45056f" />
 
 ### Скрипт while - считаем от 1 до 10
 
