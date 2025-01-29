@@ -17,6 +17,8 @@ else
   echo "Число $number нечётное!"
 fi
 ```
+### Скриншот работы программы:  
+<img width="470" alt="image" src="https://github.com/user-attachments/assets/7ded09ca-c952-438d-9c2f-9be4a449a8ee" />  
 
 ### Скрипт while - считаем от 1 до 10
 
@@ -44,6 +46,8 @@ done
 
 exit 0  # Выход с кодом 0 (удачное завершение работы скрипта)
 ```
+### Скриншот работы программы:  
+<img width="470" alt="image" src="https://github.com/user-attachments/assets/7ded09ca-c952-438d-9c2f-9be4a449a8ee" />  
 
 ### Функция НОД
 
@@ -86,10 +90,8 @@ echo "GCD of $a and $b is $result"
 exit 0  # Выход с кодом 0 (удачное завершение работы скрипта)
 ```
 
-### Скриншоты
-<img width="333" alt="image" src="https://github.com/user-attachments/assets/1fefb4db-04c0-41d0-a744-b7952c5ce7ad" />
-<img width="470" alt="image" src="https://github.com/user-attachments/assets/7ded09ca-c952-438d-9c2f-9be4a449a8ee" />
-<img width="466" alt="image" src="https://github.com/user-attachments/assets/2aee2d61-3118-4c27-b4ef-d33e9e55daf7" />
+### Скриншот работы программы:  
+<img width="466" alt="image" src="https://github.com/user-attachments/assets/2aee2d61-3118-4c27-b4ef-d33e9e55daf7" />  
 
 
 
