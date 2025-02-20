@@ -50,3 +50,8 @@ run8.sh
 
 
 Исходные файлы с текстом: 
+`source1.txt`  
+`source2.txt`  
+`source3.txt`  
+`source4.txt`  
+`source5.txt`  
