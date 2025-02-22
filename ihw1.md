@@ -40,6 +40,8 @@ run8.sh
 run9.sh
 ```
 
+
+
 Скриншоты работы программ на разных тестовых файлах:  
 ![image](https://github.com/user-attachments/assets/50fa0bbd-88af-49e5-9f2b-4d1b39b7aaad)  
 ![image](https://github.com/user-attachments/assets/16b91122-97a9-4dd1-b820-0293c36b6cbb)
@@ -60,6 +62,10 @@ run9.sh
 ![image](https://github.com/user-attachments/assets/5bebde18-d680-4705-b838-b7e0328392d5)  
 ![image](https://github.com/user-attachments/assets/1efde004-fce7-4c96-978f-d53e975d74df)  
 "maid full pale"  
+
+<img width="588" alt="image" src="https://github.com/user-attachments/assets/9c0a3d8b-f3c9-4253-a0aa-c83f680fb12e" />
+<img width="272" alt="image" src="https://github.com/user-attachments/assets/8e06032d-941d-497c-9a14-2c8b168977de" />
+"awesome"
 
 
 Исходные файлы с текстом: 
