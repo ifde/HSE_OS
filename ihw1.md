@@ -40,7 +40,15 @@ run8.sh
 run9.sh
 ```
 
+```
+./10_read source1.txt res.txt
 
+./10_write "awesome"
+
+ИЛИ
+
+run10.sh
+```
 
 Скриншоты работы программ на разных тестовых файлах:  
 ![image](https://github.com/user-attachments/assets/50fa0bbd-88af-49e5-9f2b-4d1b39b7aaad)  
