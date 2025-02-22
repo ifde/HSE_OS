@@ -75,8 +75,10 @@ run10.sh
 <img width="272" alt="image" src="https://github.com/user-attachments/assets/8e06032d-941d-497c-9a14-2c8b168977de" />
 "awesome"
 
+==========================
+==========================
 
-Исходные файлы с текстом: 
+### Исходные файлы с текстом: 
 `source1.txt`  
 `source2.txt`  
 `source3.txt`  
